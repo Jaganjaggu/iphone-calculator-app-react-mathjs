@@ -5,10 +5,10 @@
     align-items: center;
 }
 
-
-
-
 .calculator-content{
+    box-shadow: 0px -1px 26px 1px rgba(0,0,0,0.61);
+    -webkit-box-shadow: 0px -1px 26px 1px rgba(0,0,0,0.61);
+    -moz-box-shadow: 0px -1px 26px 1px rgba(0,0,0,0.61);
     background-color: #1f1e1e;
     width:280px;
     height: 570px;
